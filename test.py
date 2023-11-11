@@ -1,2 +1,3 @@
 s = input()
-print(s)
+print(s + "haha")
+print(2)
